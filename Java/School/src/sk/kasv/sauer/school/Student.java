@@ -6,13 +6,15 @@ public class Student {
     private int age;
     private double height;
     private int weight;
+    private Mobile phone;
+    private Bicycle bicycle;
 
     // konstruktor
     public Student(){ // bezparametricky konstruktor
         System.out.println("New object of class Student has been created.");
     }
 
-    public Student(String firstName, String lastName, double height, int weight){
+    public Student(String firstName, String lastName, double height, int weight) {
         this.firstName = firstName;
         this.lastName = lastName;
         this.height = height;
@@ -40,6 +42,14 @@ public class Student {
         this.weight = weight;
     }
 
+    public void setPhone(Mobile phone) {
+        this.phone = phone;
+    }
+
+    public void setBicycle(Bicycle bicycle) {
+        this.bicycle = bicycle;
+    }
+
     // getters - metoda, ktora vracia hodnotu premennej
     public String getFirstName(){
         return firstName;
@@ -61,6 +71,10 @@ public class Student {
         return weight;
     }
 
+    public Bicycle getBicycle() {
+        return bicycle;
+    }
+
     // methods
     public double calcBMI(){
         double bmi = weight / (height * height);
@@ -69,5 +83,13 @@ public class Student {
 
     public void info() {
         System.out.println("I am student." + " My name is " + firstName + " " + lastName + ", I am " + age + " years old.");
+    }
+
+    public void mobileInfo() {
+        System.out.println("My mobile is: " + phone);
+    }
+
+    public void bicycleInfo() {
+        System.out.println("My bicycle is: " + bicycle);
     }
 }
