@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f29d9aa3-7501-4543-9e92-9b4bb69a0f3c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Škola/Java/School/src/sk/kasv/sauer/school/MyMath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Škola/Python/Hodina2/task1 - trojuholnik/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Škola/Python/Hodina2/task2 - Uhol/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/Java/School/src/sk/kasv/sauer/school/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Škola/Java/School/src/sk/kasv/sauer/school/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/Python/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Škola/Python/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/Python/Hodina1/task1 - vypocet obsahu a obvodu obdlznika/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Škola/Python/Hodina1/task1 - vypocet obsahu a obvodu obdlznika/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/Python/uloha1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/Python/uloha1/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/Python/uloha1/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/Python/uloha1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/Python/uloha1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/Python/uloha1/.idea/uloha1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/Python/uloha1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/Python/uloha1/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/Python/uloha1/obvod_obsah.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/Web/01-vlk-dravy-Sauer12" beforeDir="false" afterPath="$PROJECT_DIR$/../../Škola/Web/01-vlk-dravy-Sauer12" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../Škola" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Sauer12&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Sauer12/KASV.git&quot;,
+    &quot;accountId&quot;: &quot;b66be395-2159-4591-b69e-0932362bb2e2&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="32Y6FRlG27yR6wuTlJHMOB2pJh2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
+    "Python.obvod_obsah.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/_lsauer12/Library/Mobile Documents/com~apple~CloudDocs/lsauer v2.0/Škola/Python",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../../Škola/Python/Hodina1/task1 - vypocet obsahu a obvodu obdlznika" />
+      <recent name="$PROJECT_DIR$/../../Škola/Python/Hodina1" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-7e47963ff851-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.515" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f29d9aa3-7501-4543-9e92-9b4bb69a0f3c" name="Changes" comment="" />
+      <created>1757585054676</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757585054676</updated>
+    </task>
+    <servers />
+  </component>
+</project>
