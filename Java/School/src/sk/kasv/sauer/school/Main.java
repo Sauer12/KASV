@@ -2,7 +2,7 @@ package sk.kasv.sauer.school;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("School app started.");
+        /* System.out.println("School app started.");
         pozdrav();
         Student ziak1 = new Student();
         ziak1.setAge(24);
@@ -26,7 +26,32 @@ public class Main {
         ziak2.setBicycle(bicycle);
         ziak2.bicycleInfo();
 
-        System.out.println("School app finished.");
+        System.out.println("School app finished."); */
+
+        MyMath myMath = new MyMath();
+        myMath.calcVolCubo();
+
+        myMath.calcPerimeterTriangle(1,2,3);
+
+        myMath.getAverage(5, 10, 20);
+
+        //1
+        System.out.println("Objem gule: " + myMath.getVolumeSphere(5.5));
+
+        //2
+        System.out.println("Priemer piatich čísel: " + myMath.getAverageFiveNumbers(5,5 ,2 ,3, 1));
+
+        //3
+        System.out.println("Geometrický priemer: " + myMath.getGeometricAverage(5.5, 10.5));
+
+        // 4
+        System.out.println("Obsah trojuholníka: " + myMath.getTriangleArea(5, 10 ,6));
+
+        // 5
+        System.out.println("Obsah kruhu: " + myMath.getCircleArea(5));
+
+        // 6
+        System.out.println("Náklady na cestu: " + myMath.getRoadCost(250, 7, 1.65));
     }
 
     public static void pozdrav(){
