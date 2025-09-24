@@ -60,6 +60,21 @@ public class Main {
 
         // Nahodne cislo
         System.out.println(myMath.getRandomNumber(28));
+
+        // Konverzia celzia na fahrenheit
+        System.out.println("Stupne v fahrenheitoch: " + myMath.convertCelsiusToFahrenheit( + 25));
+
+        // Konverzia fahrenheitov na celzius stupne
+        System.out.println("Stupne v celzioch: " + myMath.convertFahrenheitToCelsius( + 77));
+
+        // Bmi
+        System.out.println("BMI: " + myMath.calcBMI(80, 1.80));
+
+        // Bitcoin to euro konverzia
+        System.out.println("Bitcoin to Euro: " + myMath.btcToEuro(1));
+
+        // Mesacna splatka
+        System.out.println("Mesačná splátka: " + myMath.calcMonthlyPayment(1200, 0.06) + "€");
     }
 
     public static void pozdrav(){

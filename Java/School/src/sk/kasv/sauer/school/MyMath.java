@@ -94,9 +94,37 @@ public class MyMath {
         return currYear - year;
     }
 
+    // Nahodne cislo
     public int getRandomNumber(int i){
         Random rnd = new Random();
         int value = rnd.nextInt(28) + 1;
         return value;
+    }
+
+    // Konverzia stupnov celzia na fahrenheity
+    public double convertCelsiusToFahrenheit(double celsiusTemperature){
+        return (celsiusTemperature * 9/5) + 32;
+    }
+
+    // Konverzia fahrenheitov na celzius stupne
+    public double convertFahrenheitToCelsius(double fahrenheitTemperature){
+        return (fahrenheitTemperature - 32) * 5/9;
+    }
+
+    // Bmi
+    public double calcBMI(double weight, double height){
+        double bmi = weight / (height * height);
+        return bmi;
+    }
+
+    // Bitcoin to Euro converzia
+    public double btcToEuro(double btc){
+        return btc * 96840;
+    }
+
+    // Vypocet mesacnej splatky na rok
+    public double calcMonthlyPayment(double amount, double interestRate){
+        double monthlyInterestRate = interestRate / 12.0;
+        return amount * (monthlyInterestRate / (1 - Math.pow(1 + monthlyInterestRate, -12)));
     }
 }
