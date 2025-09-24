@@ -52,6 +52,14 @@ public class Main {
 
         // 6
         System.out.println("Náklady na cestu: " + myMath.getRoadCost(250, 7, 1.65));
+
+        System.out.println(myMath.convertKmToM(15));
+
+        // Vypisanie veku podla roku narodenia
+        System.out.println(myMath.getAge(1995));
+
+        // Nahodne cislo
+        System.out.println(myMath.getRandomNumber(28));
     }
 
     public static void pozdrav(){

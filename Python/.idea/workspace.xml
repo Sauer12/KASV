@@ -1,8 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6ac8b212-05cc-48f8-abcb-1bdeae4e4104" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Java/School/src/sk/kasv/sauer/school/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/School/src/sk/kasv/sauer/school/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/School/src/sk/kasv/sauer/school/MyMath.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/School/src/sk/kasv/sauer/school/MyMath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hodina2/task1 - trojuholnik/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hodina2/task1 - trojuholnik/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hodina2/task2 - Uhol/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hodina2/task2 - Uhol/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hodina2/task3 - trojuholniky/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hodina2/task3 - trojuholniky/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web/01-vlk-dravy-Sauer12" beforeDir="false" afterPath="$PROJECT_DIR$/../Web/01-vlk-dravy-Sauer12" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Sauer12"
   }
-}</component>
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Sauer12/KASV.git",
+    "accountId": "b66be395-2159-4591-b69e-0932362bb2e2"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="333JUUawvyHL9chpxMzO3DsArx6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-7e47963ff851-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.515" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ac8b212-05cc-48f8-abcb-1bdeae4e4104" name="Changes" comment="" />
+      <created>1758539837961</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758539837961</updated>
+    </task>
+    <servers />
+  </component>
 </project>
