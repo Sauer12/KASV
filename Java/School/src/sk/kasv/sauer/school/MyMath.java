@@ -3,6 +3,7 @@ package sk.kasv.sauer.school;
 import java.time.LocalDate;
 import java.util.Date;
 import java.util.Random;
+import java.util.Scanner;
 
 
 public class MyMath {
@@ -118,7 +119,10 @@ public class MyMath {
     }
 
     // Bitcoin to Euro converzia
-    public double btcToEuro(double btc){
+    public double btcToEuro(){
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter Bitcoin amount:");
+        double btc = Double.parseDouble(sc.nextLine());
         return btc * 96840;
     }
 

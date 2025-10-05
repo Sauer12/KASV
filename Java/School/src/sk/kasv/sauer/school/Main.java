@@ -71,10 +71,10 @@ public class Main {
         System.out.println("BMI: " + myMath.calcBMI(80, 1.80));
 
         // Bitcoin to euro konverzia
-        System.out.println("Bitcoin to Euro: " + myMath.btcToEuro(1));
+        System.out.println("Bitcoin to Euro: " + myMath.btcToEuro());
 
         // Mesacna splatka
-        System.out.println("Mesačná splátka: " + myMath.calcMonthlyPayment(1200, 0.06) + "€");
+        System.out.println("Mesačná splátka: " + myMath.calcMonthlyPayment(10000, 0.05) + "€");
     }
 
     public static void pozdrav(){
