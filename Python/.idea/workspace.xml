@@ -5,14 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ac8b212-05cc-48f8-abcb-1bdeae4e4104" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Škola/Java/School/src/sk/kasv/sauer/school/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Škola/Python/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Škola/Python/Hodina3/task1 - vyber penazi/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Škola/Python/Hodina3/task2 - hra/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Škola/Java/School/src/sk/kasv/sauer/school/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Škola/Java/School/src/sk/kasv/sauer/school/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Škola/Java/School/src/sk/kasv/sauer/school/MyMath.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Škola/Java/School/src/sk/kasv/sauer/school/MyMath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Škola/Python/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Škola/Python/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Škola/Java/School/src/sk/kasv/sauer/school/PracticeFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Škola/Java/School/src/sk/kasv/sauer/school/PracticeFor2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Škola/Java/School/src/sk/kasv/sauer/school/RandomPassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Škola/Python/Hodina7/task1 - for/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Škola/Python/Hodina7/task2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Škola/Python/Hodina7/task3/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/IoT/TestProject/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Škola/IoT/TestProject/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/IoT/TestProject/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Škola/IoT/TestProject/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/IoT/TestProject/TestProject.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../Škola/IoT/TestProject/TestProject.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Škola/Python/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Škola/Python/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/Python/Hodina5/task1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Škola/Python/Hodina5/task1/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/Python/Hodina5/task2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Škola/Python/Hodina5/task2/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/Python/Hodina6/max.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Škola/Python/Hodina6/max.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/Python/Hodina6/otoc_cislo.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Škola/Python/Hodina6/otoc_cislo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/Python/Hodina6/task1 - nacitanie cisla(max_cifra)/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Škola/Python/Hodina6/task1 - nacitanie cisla(max_cifra)/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/Python/Hodina6/task2 - otocenie cisla/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Škola/Python/Hodina6/task2 - otocenie cisla/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/Python/Hodina6/task3 - odcitanie dvoch cisel/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Škola/Python/Hodina6/task3 - odcitanie dvoch cisel/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/Web/html-03/formulare.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Škola/Web/html-03/formulare.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +56,9 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="333JUUawvyHL9chpxMzO3DsArx6" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -55,14 +68,21 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.main.executor": "Run",
+    "Python.mainň.executor": "Run",
+    "Python.max.executor": "Run",
+    "Python.otoc_cislo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "editor.preferences.inline.completion"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../../Škola/Python/Vypracovanie " />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>

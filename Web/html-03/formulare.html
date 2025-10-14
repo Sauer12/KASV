@@ -8,17 +8,61 @@
 <body>
     <p>Priezvisko</p>
     <form action="formulare.html" method="get">
-        <input type="text" name="priezvisko" placeholder="Zadajte priezvisko" required>
-        <button>odoslať</button>
+        <div>
+            <input type="text" name="priezvisko" placeholder="Zadajte priezvisko" required>
+            <button>odoslať</button>
+        </div>
+        <div>
+            <label for="heslo">Heslo:</label>
+            <input type="password" name="heslo">
+        </div>
+        <div>
+            <label for="vek">Vek</label>
+            <input type="number" name="vek" id="vek">
+        </div>
+        <div>
+            <label for="farba">Obľubená farba</label>
+            <input type="color" name="obľubená" id="farba">
+        </div>
+        <div>
+            <label for="basen">Napíš báseň</label>
+            <textarea name="basen" id="basen" cols="30" rows="10" placeholder="Mor"></textarea>
+        </div>
+        <div>
+            <label for="stastie">Ako si šťastný</label>
+            <input type="range" name="miera_stastia" id="stastie" min="1" max="7" step="0.5">
+        </div>
+        <div>
+            <label for="do skoly">Kedy sa chodi skoly?</label>
+            <select name="kedy" id="do_skoly" multiple>
+                <option value=""></option>
+                <option value="0">Pred vyucovanim</option>
+                <option value="1" selected>Presne o 8:00</option>
+                <option value="2">Je mi to jedno</option>
+                <option value="3"></option>
+                <option value="4"></option>
+                <option value="5"></option>
+            </select>
+        </div>
+        <div>
+            <label for="Pohlavie"></label>
+            <fieldset>
+                <input type="radio" name="pohlavie" id="muz" value="M"><label for="muz">Muž</label>
+                <input type="radio" name="pohlavie" id="zena" value="Z"><label for="muz">Žena</label>
+                <input type="radio" name="pohlavie" id="ufon" value="U"><label for="ufon">Ufon</label>
+            </fieldset>
+        </div>
     </form>
 
     <p>Opýtaj sa googla:</p>
     <form action="https://www.google.com/search" method="get">
-        <label for="googleQuery">Otázka</label>
-        <input id="googleQuery" type="text" name="q" placeholder="Spýtaj sa googla" required minlength="2">
+        <div>
+            <label for="googleQuery">Otázka</label>
+            <input id="googleQuery" type="text" name="q" placeholder="Spýtaj sa googla" required minlength="2">
+        </div>
         <button>odoslať</button>
     </form>
-
+    
     <p>Hranie sa</p>
     <input type="date" name="date">
 </body>
