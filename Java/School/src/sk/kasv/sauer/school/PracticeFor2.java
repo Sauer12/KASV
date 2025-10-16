@@ -72,4 +72,6 @@ public class PracticeFor2 {
         }
         return counter;
     }
+
+
 }
