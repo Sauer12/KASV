@@ -55,11 +55,8 @@ public class WhileCycles {
         System.out.println();
 
         // 12. Triangle pyramida - spojeny/obojstranny
-        wc.connectedTriangle(11, '*');
+        wc.connectedTriangle(13, '*');
         System.out.println();
-
-        // 13. Triangle pyramida spojeny/obojstranny - druhy sposob
-        wc.connectedTriangle2(11, '@');
     }
 
 
@@ -219,15 +216,23 @@ public class WhileCycles {
         }
     }
 
-    // 12. Spojeny trojuholnik
-    public void connectedTriangle(int rows, char symbol){
-        triangle3(rows / 2, symbol);
-        triangle4(rows / 2, symbol);
+    public void triangle5(int rows, char symbol){
+        for(int i = rows; i >= 1; i--){
+            for(int k = rows - i; k >= 0; k--){
+                System.out.print(" ");
+            }
+
+            for(int k = 2 * i - 1; k >= 1; k--){
+                System.out.print(symbol);
+            }
+
+            System.out.println();
+        }
     }
 
-    // 13. Spojeny trojuholnik upgrade
-    public void connectedTriangle2(int rows, char symbol){
-        int row = 5;
-        System.out.println(row);
+    // 12. Spojeny trojuholnik
+    public void connectedTriangle(int rows, char symbol){
+        triangle3(rows / 2 + 1, symbol);
+        triangle5(rows / 2, symbol);
     }
 }
