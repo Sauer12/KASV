@@ -1,0 +1,51 @@
+/* @font-face {
+    font-family: 'Antonio';
+    src: url('fonts/Antonio-VariableFont_wght.ttf');
+} */ 
+
+/* .woff2, .ttf */
+
+body {
+  font-family: "Antonio", sans-serif;
+  font-style: normal;
+}
+
+h2 {
+    color: white;
+    text-shadow: 1px 2px 1px red, 2px 3px 3px blue;
+    text-transform: uppercase;
+}
+
+p b {
+    text-decoration: wavy line-through magenta;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+}
+
+.vlastnosti > li > ul{
+    list-style-type: disc;
+}
+
+ul > li {
+    list-style-type: "\1F36D";
+}
+
+ol.postup {
+    list-style-type: upper-roman;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:visited {
+    color: orange;
+}
+
+a:hover {
+    text-decoration: underline;
+}

@@ -117,7 +117,7 @@ public class WhileMathematics {
         return false;
     }
 
-    //26. Nájdite najväčší spoločný deliteľ (GCD) dvoch čísel pomocou while.
+    //26. Nájdite najväčší spoločný deliteľ (GCD) dvoch čísel pomocou while. (da sa robit aj cez Euklidov algoritmus)
     public int GCD(int a, int b){
         int i = 1;
         int min = a;

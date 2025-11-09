@@ -1,5 +1,6 @@
 package sk.kasv.sauer.school;
 
+import java.security.spec.RSAOtherPrimeInfo;
 import java.util.Random;
 import java.util.Scanner;
 
@@ -7,7 +8,7 @@ public class PracticeWhile {
 
     public static void main(String[] args) {
         PracticeWhile pw = new PracticeWhile();
-
+        Scanner sc = new Scanner(System.in);
 //        pw.print1to20();
 //        pw.enterAndPrintEvenNumber();
 //        pw.money();
@@ -25,7 +26,18 @@ public class PracticeWhile {
 
 //        pw.generateNNumbers(20);
 //        pw.generateThreeRandomNumbers();
-        pw.numericalSum(52513);
+//        System.out.println(pw.numericalSum(52513));
+
+//        Mesiac a deň
+//        System.out.print("Enter a day(1 - 31): ");
+//        int day = sc.nextInt();
+//        System.out.print("Enter a month(1 - 12): ");
+//        int month = sc.nextInt();
+//        pw.enterDay(day, month);
+
+
+          System.out.print("How much money do you want to save?: ");
+          int amount = sc.nextInt();
     }
 
     public void print1to20(){
@@ -80,14 +92,76 @@ public class PracticeWhile {
 //        Random rd = new Random();
 //    }
 
-    // Vypise ciselny sucet, bere vstup number a ten vypise
-    public void numericalSum(int number){
+    // Vrati ciselny sucet, bere vstup number(int)
+    public int numericalSum(int number){
         int sum = 0;
         while(number != 0){
             sum += number % 10;
             number = number / 10;
         }
 
-        System.out.println(sum);
+        return number;
+    }
+
+    // Zadaj den od 1 do 31, zadaj mesiac od 1 do 12, zadaj datum, vypise mesiac retazec
+    public void enterDay(int day, int month) {
+        Scanner scanner = new Scanner(System.in);
+
+        while (day < 1 || day > 31) {
+            System.out.print("Please enter a valid day(1 - 31): ");
+            day = scanner.nextInt();
+        }
+        while (month < 1 || month > 12) {
+            System.out.println("Please enter a valid month(1 - 12): ");
+            month = scanner.nextInt();
+        }
+
+        String textFormatMonth = numberMonthConvertToStringMonth(month);
+        System.out.println("Today date: " + day + ". " + textFormatMonth);
+    }
+
+    public String numberMonthConvertToStringMonth(int month){
+        String textFormatMonth = "";
+        switch (month){
+            case 1:
+                textFormatMonth = "January";
+                break;
+            case 2:
+                textFormatMonth = "February";
+                break;
+            case 3:
+                textFormatMonth = "March";
+                break;
+            case 4:
+                textFormatMonth = "April";
+                break;
+            case 5:
+                textFormatMonth = "May";
+                break;
+            case 6:
+                textFormatMonth = "June";
+                break;
+            case 7:
+                textFormatMonth = "July";
+                break;
+            case 8:
+                textFormatMonth = "August";
+                break;
+            case 9:
+                textFormatMonth = "September";
+                break;
+            case 10:
+                textFormatMonth = "October";
+                break;
+            case 11:
+                textFormatMonth = "November";
+                break;
+            case 12:
+                textFormatMonth = "December";
+                break;
+        }
+
+        return textFormatMonth;
     }
 }
+

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table</title>
+    <style>
+        table, tr, th, td {
+            border: 1px solid black;
+        }
+        table {
+            border-collapse: collapse;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <caption>Dnešný nákup</caption>
+        <thead>
+            <tr>
+                <th rowspan="2" scope="rowgroup">Hlavička</th>
+                <th colspan="3">Bloček</th>
+            </tr>
+            <tr>
+                <th colspan="2">položka</th>
+                <th>cena</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th rowspan="4" scope="rowgroup">Telo</th>
+                <td colspan="2">chlieb</td>
+                <td>1, 80&euro;</td>
+            </tr>
+            <tr>
+                <td>rožky</td>
+                <td>3 ks</td>
+                <td>0,60 &euro;</td>
+            </tr>
+            <tr>
+                <td colspan="2" rowspan="2">mlieko (so zľavou)</td>
+                <td>1, 20 &euro;</td>
+            </tr>
+            <tr>
+                <td>-0,10&euro;</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <th scope="row">Pätička</th>
+                <th colspan="2">Spolu</th>
+                <th>3,50 &euro;</th>
+            </tr>
+        </tfoot>
+    </table>
+</body>
+</html>

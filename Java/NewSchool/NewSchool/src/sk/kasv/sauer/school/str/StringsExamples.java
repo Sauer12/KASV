@@ -59,5 +59,17 @@ public class StringsExamples {
         for(int i = b.length() -1; i >= 0; i--){
             System.out.print(b.charAt(i));
         }
+        System.out.println();
+
+        double value = 189.47;
+        String t = String.valueOf(value);
+        System.out.println(t);
+        Integer k = 17;
+        String.valueOf(k);
+        k.toString();
+        System.out.println(Integer.numberOfLeadingZeros(k)); //pocet nulovych bitov pred cislom v binarnej sustave, napr. 17 je 10001, takze pri int, ktory ma 4 bajty, bude mat 27 bitov nula
+        String tt = "1456";
+        int nn = Integer.parseInt(tt);
+        System.out.println(nn);
     }
 }

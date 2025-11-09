@@ -1,0 +1,24 @@
+
+
+body{
+    font-family: Roboto, sans-serif;
+}
+
+h1 {
+    font-family: Geneva, Verdana, Tahoma, sans-serif
+}
+
+p {
+    letter-spacing: 1.5px; /*  rozdiel medzier medzi znakmi */
+    word-spacing: 15px; /* rozdiel medziem medzi slovami */
+    line-height: 1; /* dobre pre text area */
+    font-weight: normal;
+}
+
+textarea{
+    height: 4lh; /* da textarea 4 riadky */
+    width: 25ch; /* zhruba sirka 25 znakov */
+}
+
+
+
