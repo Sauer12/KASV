@@ -1,0 +1,33 @@
+name: Mirror to GitLab
+
+on:
+  push:
+    branches: ["**"]
+    tags: ["**"]
+  delete: {}           # zachytí mazanie vetiev/tagov
+  workflow_dispatch: {}  # ručné spustenie
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout full history
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0    # musí byť 0, nech sa zrkadlia všetky referencie
+
+      - name: Set Git author (optional, pre konzistenciu)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Add GitLab remote
+        run: |
+          git remote add gitlab "https://oauth2:${{ secrets.GITLAB_TOKEN }}@${{ secrets.GITLAB_REPO#https:// }}"
+          # prípadne ak si uložil celé URL bez https:// do GITLAB_REPO, uprav podľa seba
+          git remote -v
+
+      - name: Mirror all refs (branches, tags, deletions)
+        run: |
+          # --mirror = všetko, vrátane mazania a force-push referencií
+          git push --mirror gitlab
