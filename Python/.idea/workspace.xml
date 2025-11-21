@@ -5,24 +5,48 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ac8b212-05cc-48f8-abcb-1bdeae4e4104" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Škola/Java/NewSchool/NewSchool/src/sk/kasv/sauer/school/str/Strings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Škola/Java/NewSchool/NewSchool/src/sk/kasv/sauer/school/str/StringsExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Škola/Python/Hodina10/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Škola/Python/Hodina10/uloha2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Škola/Java/School/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Škola/Java/School/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Škola/Java/School/src/sk/kasv/sauer/school/CifernySucet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Škola/Java/School/src/sk/kasv/sauer/school/CifernySucet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Škola/Java/School/src/sk/kasv/sauer/school/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Škola/Java/School/src/sk/kasv/sauer/school/Example.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Škola/Java/School/src/sk/kasv/sauer/school/ExampleMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Škola/Java/School/src/sk/kasv/sauer/school/ExampleMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Škola/Java/School/src/sk/kasv/sauer/school/Exercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Škola/Java/School/src/sk/kasv/sauer/school/Exercises.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Škola/Java/School/src/sk/kasv/sauer/school/Faktorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Škola/Java/School/src/sk/kasv/sauer/school/Faktorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Škola/Java/School/src/sk/kasv/sauer/school/PracticeWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Škola/Java/School/src/sk/kasv/sauer/school/PracticeWhile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Škola/Java/School/src/sk/kasv/sauer/school/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Škola/Java/School/src/sk/kasv/sauer/school/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Škola/Java/School/src/sk/kasv/sauer/school/Uloha.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Škola/Java/School/src/sk/kasv/sauer/school/Uloha.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Škola/Java/School/src/sk/kasv/sauer/school/WhileCycles.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Škola/Java/School/src/sk/kasv/sauer/school/WhileCycles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Škola/Java/WordsMemorizer/WordsMemorizer/src/sk/sauer/lukas/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Škola/Java/WordsMemorizer/WordsMemorizer/src/sk/sauer/lukas/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Škola/Java/NewSchool/NewSchool/src/sk/kasv/sauer/school/Integer/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Škola/Java/NewSchool/NewSchool/src/sk/kasv/sauer/school/arrays/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Škola/Java/NewSchool/NewSchool/src/sk/kasv/sauer/school/arrays/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Škola/Java/NewSchool/NewSchool/src/sk/kasv/sauer/school/arrays/RandomArrayNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Škola/Java/NewSchool/NewSchool/src/sk/kasv/sauer/school/arrays/Sifry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Škola/Java/NewSchool/NewSchool/src/sk/kasv/sauer/school/rodneCislo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Škola/Java/NewSchool/NewSchool/src/sk/kasv/sauer/school/rodneCislo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Škola/Java/NewSchool/NewSchool/src/sk/kasv/sauer/school/str/RodneCislo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Škola/Java/NewSchool/NewSchool/src/sk/kasv/sauer/school/str/StringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Škola/Python/Hodina11/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Škola/Python/Hodina11/uloha2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Škola/Python/Hodina12/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/IoT/blink/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Škola/IoT/blink/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/IoT/blink/blink.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../Škola/IoT/blink/blink.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/Java/NewSchool/NewSchool/src/sk/kasv/sauer/school/WhileCreativeTasks.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Škola/Java/NewSchool/NewSchool/src/sk/kasv/sauer/school/fifty/fiftyTasks/WhileCreativeTasks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/Java/NewSchool/NewSchool/src/sk/kasv/sauer/school/WhileMathematics.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Škola/Java/NewSchool/NewSchool/src/sk/kasv/sauer/school/fifty/fiftyTasks/WhileMathematics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/Java/NewSchool/NewSchool/src/sk/kasv/sauer/school/WhileStredne.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Škola/Java/NewSchool/NewSchool/src/sk/kasv/sauer/school/fifty/fiftyTasks/WhileStredne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/Java/NewSchool/NewSchool/src/sk/kasv/sauer/school/WhileStringsCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Škola/Java/NewSchool/NewSchool/src/sk/kasv/sauer/school/fifty/fiftyTasks/WhileStringsCharacters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/Java/NewSchool/NewSchool/src/sk/kasv/sauer/school/WhileZakladne.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Škola/Java/NewSchool/NewSchool/src/sk/kasv/sauer/school/fifty/fiftyTasks/WhileZakladne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/Java/NewSchool/NewSchool/src/sk/kasv/sauer/school/selflearning/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Škola/Java/NewSchool/NewSchool/src/sk/kasv/sauer/school/selfLearning/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/Java/NewSchool/NewSchool/src/sk/kasv/sauer/school/selflearning/Point2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Škola/Java/NewSchool/NewSchool/src/sk/kasv/sauer/school/selfLearning/Point2D.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Škola/Python/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Škola/Python/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Škola/Python/Hodina9 - polia/uloha1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Škola/Python/Hodina9 - polia/uloha1/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Škola/Python/Hodina9 - polia/uloha2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Škola/Python/Hodina9 - polia/uloha2/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/Web/Uloha7/fonts/Antonio-VariableFont_wght.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/Web/Uloha7/images/spagety1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/Web/Uloha7/images/spagety2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/Web/Uloha7/images/spagety3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/Web/Uloha7/spagety.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/Web/Uloha7/spagety.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/Web/Uloha7/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/Web/html-08/fonts/Roboto-ExtraLight.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/Web/html-08/fonts/Roboto-LightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/Web/html-08/fonts/Roboto-MediumItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/Web/html-08/fonts/Roboto-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/Web/html-08/fonts/Roboto-SemiBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/Web/html-08/fonts/Roboto-ThinItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/Web/html-08/fonts/Roboto_SemiCondensed-ExtraLightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/Web/html-08/fonts/Roboto_SemiCondensed-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/Web/html-08/fonts/Roboto_SemiCondensed-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/Web/html-08/fonts/Roboto_SemiCondensed-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/Web/html-08/fonts/Roboto_SemiCondensed-SemiBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/Web/html-08/fonts/Roboto_SemiCondensed-Thin.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Škola/Web/html-08/fonts/Roboto_SemiCondensed-ThinItalic.ttf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,22 +87,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.main.executor": "Run",
-    "Python.mainň.executor": "Run",
-    "Python.max.executor": "Run",
-    "Python.otoc_cislo.executor": "Run",
-    "Python.uloha2.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mainň.executor&quot;: &quot;Run&quot;,
+    &quot;Python.max.executor&quot;: &quot;Run&quot;,
+    &quot;Python.otoc_cislo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.uloha2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/../../Škola/Python/Vypracovanie " />

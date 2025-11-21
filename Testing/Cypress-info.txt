@@ -1,0 +1,12 @@
+//node_modules - obsahuje vsetky kniznice a balicky ktore nas projekt potrebuje na fungovanie 
+obsahuje aj samotny Cypress, tento priecinok sa nikdy samostatne/manualne neupravuje
+
+//package.json a package-lock.json - package hovori ake kniznice nas projekt potrebuje
+
+//package-lock.json - zaistuje, ze kazdy v time dostane tie iste presne kniznice
+
+// cypres.config.js - hlavny konfiguracny subor pre Cypress
+
+// V cypresse mame 2 typy nastaveni
+- globalne (tykaju sa celeho cypress Frameworku a piseme ich priam odo hlavneho objektu)
+- specificke/e2e (tykaju sa iba e2e testovania, piseme ich dovnutra objektu)

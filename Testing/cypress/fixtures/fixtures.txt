@@ -1,0 +1,7 @@
+//Fixtures v cypress kontexte je priecinok kde si ukladame testovacie data
+
+//Uchovavame tu staticke data, ktore pre nase testy potrebujeme
+
+//vieme si tu pridat nielen json subory ale aj csv png jpeg alebo zvukove subory 
+ktore by sme napriklad chceli odoslat cez nejaky formular.
+

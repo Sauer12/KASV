@@ -1,0 +1,4 @@
+// Cypress dielna e2e - znamena end to end tu sa odohravaju tie hlavne cinnosti
+Do tohto priecinku priamo piseme testovacie skripty
+kazdy subor ktory konci cy.js predstavuje jeden testovaci subor
+Cypress automaticky najde vsetky subory v tomto priecinku
